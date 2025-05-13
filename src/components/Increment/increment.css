@@ -1,0 +1,14 @@
+.main{ 
+    gap: 20px;
+    background-color: aqua;
+}
+#btn{
+    background-color: green;
+    width: 120px;
+    height: 40px;
+    color: white;
+    border-radius: 30px;
+    border: 2px solid green;
+    cursor: pointer;
+    
+}
