@@ -3,7 +3,7 @@ import Randomcolor from './components/Randomclr/Randomcolor'
 import RandomQuote from './components/RandomQuote/RandomQuote'
 import Theme from './components/Theme/Theme'
 import Sign from './components/Sign/Sign'
-import "./app.css"
+import "./App.css"
 import { Route,Routes } from 'react-router-dom'
 import Navbar from "./components/Navbar/Navbar"
 
